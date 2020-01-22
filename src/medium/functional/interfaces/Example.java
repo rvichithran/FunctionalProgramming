@@ -13,11 +13,3 @@ public class Example {
         System.out.println("Modulus : 	"+b.process(20,10, modulus));
     }
 }
-interface A {
-    int compute(int num1, int num2);
-}
-class B {
-    int process(int num1, int num2, A a) {
-        return a.compute(num1, num2);
-    }
-}
