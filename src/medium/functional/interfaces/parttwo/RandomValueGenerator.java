@@ -1,4 +1,4 @@
-package medium.functional.interfaces;
+package medium.functional.interfaces.parttwo;
 
 import java.util.Random;
 import java.util.function.Supplier;
